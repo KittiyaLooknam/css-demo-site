@@ -2,7 +2,7 @@
 
 
 # Description   
-This project is a code refactor by Horriseon homepage. THe purooses of this refactioring is to make the code more efficient comprehemsible and accessibls. This refactiorins should also result in
+This project is a code refactor by Horriseon homepage. The purooses of this refactioring is to make the code more efficient comprehemsible and accessibls. This refactiorins should also result in
 improved search engine optimiztion. The modification doesn't change the display styling or page only the underlying code.
 
 
