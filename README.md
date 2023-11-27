@@ -12,16 +12,16 @@ improved search engine optimiztion. The modification doesn't change the display 
 - In HTML docoment explanntory comment were provided
 - The title a descriptive was added
 
-Links
+# Links
 
 Link to the deployed website 
 Link to the code repsitory 
 
-Installation 
+# Installation 
 
 Upload index.html and assets folder to the depoloyed webserver. the assets folder contains images and css files.
 
 
-Usage
+# Usage
 
 THe application designed for desktop viewing. It not add media for smaller screens yet.
