@@ -24,4 +24,4 @@ Upload index.html and assets folder to the depoloyed webserver. the assets folde
 
 # Usage
 
-THe application designed for desktop viewing. It not add media for smaller screens yet.
+The application designed for desktop viewing. It not add media for smaller screens yet.
