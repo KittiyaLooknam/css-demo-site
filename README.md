@@ -12,10 +12,13 @@ improved search engine optimiztion. The modification doesn't change the display 
 - In HTML docoment explanntory comment were provided
 - The title a descriptive was added
 
+# Screeshot 
+![alt text](image.png)
+![alt text](image-1.png)
+
 # Links
 
-Link to the deployed website 
-Link to the code repsitory 
+Link to the code repsitory : https://github.com/KittiyaLooknam/css-demo-site.git
 
 # Installation 
 
@@ -25,3 +28,9 @@ Upload index.html and assets folder to the depoloyed webserver. the assets folde
 # Usage
 
 The application designed for desktop viewing. It not add media for smaller screens yet.
+
+# Credits
+
+- https://www.w3schools.com/html/html5_semantic_elements.asp
+- https://www.w3schools.com/html/html5_semantic_elements.asp
+- Thank you to Louis Delia for advice.
