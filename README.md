@@ -13,7 +13,7 @@ improved search engine optimiztion. The modification doesn't change the display 
 - The title a descriptive was added
 
 # Screeshot 
-![alt text](image.png)
+![alt text](image-2.png)
 ![alt text](image-1.png)
 
 # Links
